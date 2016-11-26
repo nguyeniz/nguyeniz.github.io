@@ -10,14 +10,23 @@ Content by Hann, theme by  [Yevgeniy Brikman](http://www.ybrikman.com).
 course
 
 ### Tools
-* coding
+
+* coding *
 
   [code editor](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2)
+
   [markdown with sublime](http://plaintext-productivity.net/2-04-how-to-set-up-sublime-text-for-markdown-editing.html)
+
   [latex with sublime]()
 
-  * cheet sheets
+* cheet sheets *
+
   [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* Latex writing *
+
+$\omega = d\phi / dt$.
+$$I = \int \rho R^{2} dV$$
 
 ## Local setup
 
