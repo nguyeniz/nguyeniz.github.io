@@ -1,0 +1,69 @@
+# Website settings
+baseurl: "/"
+url: "http://hann.work"
+
+# Internal nav
+nav:
+  main:
+    cv: "/assets/doc/HannCV.pdf"
+    research: "/research"
+    events: "/events"
+    notes: "/notes"
+  notes:
+    all: "/notes"
+    popular: "/notes/popular"
+    tags: "/notes/tags"
+    rss: "/feed.xml"
+
+# Bio settings
+name: "Hann"
+fullname: "Hai-Nguyen Nguyen"
+slogan: "Work-in-progress roboticist"
+description: "Hai-Nguyen Nguyen, PhD Candidate at Seoul National University"
+thumbnail_path: "nguyen.jpg"
+snu: "http://en.snu.ac.kr"
+imech: "http://www.imech.ac.vn"
+vast: "http://www.vast.ac.vn/en/"
+
+# ID
+disqus: hainguyen
+ORCID: 0000-0002-2850-1304
+google_analytics_id: UA-70444178-1
+
+# URLs
+contact_urls:
+  home: 
+    url: "http://inrol.snu.ac.kr"
+    label: "Homepage"
+    icon: "home"  
+  linkedin: 
+    url: "https://www.linkedin.com/in/nguyenhainguyen"
+    label: "LinkedIn"
+    icon: "linkedin-square"
+  facebook: 
+    url: "https://www.facebook.com/nguyeniz"
+    label: "Facebook"
+    icon: "facebook-square"
+  email: 
+    url: "mailto:hainguyen@snu.ac.kr"
+    label: "Email"
+    value: "hainguyen@snu.ac.kr"
+    icon: "envelope-square"
+
+
+
+# Jekyll build settings
+paginate: 10
+paginate_path: "/notes/page:num"
+permalink: "/notes/:year/:month/:day/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'Asia/Seoul'
+
+# Plugins (GitHub Pages only support a few)
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate
