@@ -33,9 +33,9 @@ $$I = \int \rho R^{2} dV$$
 1. Use Git to clone this repo
 2. Install [Jekyll](http://jekyllrb.com/docs/installation/) (requires Xcode Command-Line tools in mac)
 `sudo gem install jekyll` (in the local folder)
-1. Just the first time: `sudo gem install bundler` and `bundle install`
-1. To build the site and serve it: `bundle exec jekyll serve`
-1. To test: `http://localhost:4000`
+(Just the first time: `sudo gem install bundler` and `bundle install`)
+3. To build the site and serve it: `bundle exec jekyll serve`
+4. To test: `http://localhost:4000`
 
 See the [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 documentation for more info.

@@ -40,12 +40,8 @@ contact_urls:
     url: "https://www.linkedin.com/in/nguyenhainguyen"
     label: "LinkedIn"
     icon: "linkedin-square"
-  facebook: 
-    url: "https://www.facebook.com/nguyeniz"
-    label: "Facebook"
-    icon: "facebook-square"
   email: 
-    url: "mailto:hainguyen@snu.ac.kr"
+    url: "mailto:hann@ieee.org"
     label: "Email"
     value: "hainguyen@snu.ac.kr"
     icon: "envelope-square"
